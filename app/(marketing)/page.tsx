@@ -178,14 +178,14 @@ const HomePage = () => {
       <Wrapper className="flex flex-col items-center justify-center py-12 relative">
         <div className="hidden md:block absolute -top-1/4 -left-1/3 w-72 h-72 bg-indigo-500 rounded-full blur-[10rem] -z-10"></div>
         <Container>
-          <div className="max-w-md mx-auto text-start md:text-center">
-            <SectionBadge title="Our Customers" />
+          <div className="max-w-2xl mx-auto text-start md:text-center">
+            <SectionBadge title="Our Testimonials" />
             <h2 className="text-3xl lg:text-4xl font-semibold mt-6">
-              What people are saying
+              What Our Attendees Are Saying
             </h2>
-            <p className="text-muted-foreground mt-6">
-              See how Astra empowers businesses of all sizes. Here&apos;s what
-              real people are saying on Twitter
+            <p className="text-muted-foreground mt-6 max-w-xl mx-auto text-center">
+              Discover how the IEEE Workshop Companion Platform is transforming
+              workshops for professionals and participants alike.
             </p>
           </div>
         </Container>
@@ -261,15 +261,15 @@ const HomePage = () => {
           <LampContainer>
             <div className="flex flex-col items-center justify-center relative w-full text-center">
               <h2 className="text-4xl lg:text-5xl xl:text-6xl lg:!leading-snug font-semibold mt-8">
-                From Idea to Launch <br /> Faster Than Ever
+                Ready to Elevate <br /> Your Workshop Experience?
               </h2>
               <p className="text-muted-foreground mt-6 max-w-md mx-auto">
-                Build stunning websites with Astra&apos;s intuitive
-                drag-and-drop builder and powerful AI assistant
+                Join the thousands of IEEE professionals who are transforming
+                the way they participate in workshops.
               </p>
               <Button variant="white" className="mt-6" asChild>
-                <Link href="/sign-in">
-                  Get started for free
+                <Link href="#">
+                  Get Started Today
                   <ArrowRight className="w-4 h-4 ml-2" />
                 </Link>
               </Button>
@@ -283,8 +283,9 @@ const HomePage = () => {
                 <h4 className="text-xl md:text-2xl font-semibold">
                   Join our newsletter
                 </h4>
-                <p className="text-base text-muted-foreground">
-                  Be up to date with everything about AI builder
+                <p className="text-base max-w-xl text-muted-foreground">
+                  Experience the difference and take your workshops to the next
+                  level with IEEE Workshop Companion Platform.
                 </p>
               </div>
               <div className="flex flex-col items-start gap-2 md:min-w-80 mt-5 md:mt-0 w-full md:w-max">

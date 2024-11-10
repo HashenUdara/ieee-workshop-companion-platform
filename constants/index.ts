@@ -123,33 +123,33 @@ export const bentoCards = [
 
 export const reviews = [
   {
-    name: "Jack",
-    username: "@jack",
-    body: "I've never seen anything like this before. It's amazing. I love it.",
+    name: "Alex",
+    username: "@alex",
+    body: "The IEEE Workshop Companion Platform transformed our event experience. Managing schedules and engaging with real-time Q&A was seamless. Highly recommended!",
   },
   {
-    name: "Jill",
-    username: "@jill",
-    body: "I don't know what to say. I'm speechless. This is amazing.",
+    name: "Samantha",
+    username: "@samantha",
+    body: "This platform was a game-changer for our workshop. The interactive agenda and live polls kept everyone involved. Fantastic tool!",
   },
   {
-    name: "John",
-    username: "@john",
-    body: "I'm at a loss for words. This is amazing. I love it.",
+    name: "Michael",
+    username: "@michael",
+    body: "I'm amazed by how easy it was to connect and participate during sessions. The platform made everything run smoothly. Absolutely loved it!",
   },
   {
-    name: "Jane",
-    username: "@jane",
-    body: "I'm at a loss for words. This is amazing. I love it.",
+    name: "Rachel",
+    username: "@rachel",
+    body: "I’ve never experienced such a user-friendly tool for workshops. From personalized schedules to post-event feedback, it was flawless.",
   },
   {
-    name: "Jenny",
-    username: "@jenny",
-    body: "I'm at a loss for words. This is amazing. I love it.",
+    name: "Chris",
+    username: "@chris",
+    body: "This platform redefined workshop engagement for me. The interactive features kept things lively, and navigating the event was a breeze.",
   },
   {
-    name: "James",
-    username: "@james",
-    body: "I'm at a loss for words. This is amazing. I love it.",
+    name: "Nina",
+    username: "@nina",
+    body: "Attending workshops has never been this easy and engaging. The IEEE Workshop Companion made every session better with its smart features.",
   },
 ];
